@@ -13,3 +13,6 @@ namespace FirstDotnet
         //decimal c = 2.22m;
     }
 }
+
+
+//note
